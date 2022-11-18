@@ -12,6 +12,10 @@ const items = [
     query: "topic:angular sort:updated-desc"
   },
   {
+    name: "Amazon Web Services",
+    query: "topic:aws sort:updated-desc"
+  },
+  {
     name: "C++",
     query: "topic:cpp sort:updated-desc"
   },
@@ -20,8 +24,16 @@ const items = [
     query: "topic:css sort:updated-desc"
   },
   {
+    name: "Docker",
+    query: "topic:docker sort:updated-desc"
+  },
+  {
     name: "Flutter",
     query: "topic:flutter sort:updated-desc"
+  },
+  {
+    name: "GraphQL",
+    query: "topic:graphql sort:updated-desc"
   },
   {
     name: "HTML",
@@ -40,6 +52,30 @@ const items = [
     query: "topic:kotlin sort:updated-desc"
   },
   {
+    name: "Kubernetes",
+    query: "topic:kubernetes sort:updated-desc"
+  },
+  {
+    name: "Laravel",
+    query: "topic:laravel sort:updated-desc"
+  },
+  {
+    name: "Linux",
+    query: "topic:linux sort:updated-desc"
+  },
+  {
+    name: "NodeJS",
+    query: "topic:nodejs sort:updated-desc"
+  },
+  {
+    name: "PHP",
+    query: "topic:php sort:updated-desc"
+  },
+  {
+    name: "Python",
+    query: "topic:python sort:updated-desc"
+  },
+  {
     name: "React",
     query: "topic:react sort:updated-desc"
   },
@@ -50,6 +86,10 @@ const items = [
   {
     name: "Vue",
     query: "topic:vue sort:updated-desc"
+  },
+  {
+    name: "Wordpress",
+    query: "topic:wordpress sort:updated-desc"
   }
 ]
 
